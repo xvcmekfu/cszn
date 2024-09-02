@@ -2,6 +2,8 @@
 
 如果您想深入了解Claude 3.5中的Artifacts功能，本文将为您提供详细的使用指南。Artifacts是一个独特的工具，允许用户生成、编辑和管理复杂内容，不仅限于简单的文本回复，而是涵盖了代码片段、文档、网站、图片等多种格式。
 
+![Claude Artifacts](https://github.com/user-attachments/assets/5c84c0d3-d1ce-4c07-9b4a-d22d600c394b)
+
 ## 什么是Claude 3中的Artifacts？
 
 Claude中的Artifacts是一种高级功能，它为用户提供了一个专门的窗口，用于显示和编辑生成的复杂内容。无论是代码片段、文档还是SVG图片，Artifacts都允许用户实时修改和保存这些内容，并将其导出以在Claude之外使用。这使得Claude不仅仅是一个对话工具，更是一个强大的协作平台。
